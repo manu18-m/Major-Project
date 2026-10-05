@@ -1,0 +1,4 @@
+1. During maintenance, the worker opened a pressurised line without energy isolation.
+2. The supervisor verified the permit and all workers wore the required PPE.
+3. A suspended load passed over an occupied area without an exclusion zone.
+4. Gas testing was completed before authorised hot work started.

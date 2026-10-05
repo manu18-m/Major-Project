@@ -1,0 +1,58 @@
+{
+  "Energy Isolation": [
+    "isolation",
+    "lockout",
+    "tagout",
+    "pressurised",
+    "pressure",
+    "electrical panel",
+    "energy"
+  ],
+  "Working at Height": [
+    "height",
+    "fall arrest",
+    "lanyard",
+    "platform edge",
+    "elevated"
+  ],
+  "Lifting Operations": [
+    "lifted",
+    "suspended load",
+    "crane",
+    "lifting plan",
+    "load path",
+    "banksman"
+  ],
+  "Confined Space": [
+    "confined space",
+    "gas testing",
+    "entry permit",
+    "attendant"
+  ],
+  "Hot Work": [
+    "hot work",
+    "hydrocarbon vapour",
+    "gas monitoring",
+    "gas detector"
+  ],
+  "Line of Fire": [
+    "line of fire",
+    "dropped object",
+    "struck",
+    "reversing vehicle",
+    "pedestrian"
+  ],
+  "Driving": [
+    "vehicle",
+    "speed",
+    "driver",
+    "site road",
+    "reversing"
+  ],
+  "Bypassing Safety Controls": [
+    "bypassed",
+    "interlock",
+    "guard removed",
+    "safety control"
+  ]
+}

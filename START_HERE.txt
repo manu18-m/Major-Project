@@ -1,0 +1,30 @@
+SIH 26165 — SIF PRECURSOR INTELLIGENCE
+=====================================
+
+ONE-COMMAND START
+------------------
+Open this folder in VS Code and run:
+
+    python manage.py runserver
+
+The launcher creates/uses .venv, installs requirements when needed, prepares the demo ML model, runs database migrations, and starts Django.
+
+MAIN MODULES
+------------
+1. Analyze — free-text SIF precursor classification and explainability
+2. Structured Report — incident/near-miss intake + 5x5 risk screening
+3. CAPA — corrective/preventive action assignment and closure
+4. Critical Controls — start-work control verification checklist
+5. Inspections — field safety inspection workflow
+6. RCA — 5-Why investigation workspace + causal categories
+7. Batch — CSV analysis of multiple safety reports
+8. Analytics — classification/risk trends + CSV export
+9. Dashboard — model and workflow overview
+
+UI
+--
+Premium glassmorphism interface, animated loading screen, ambient effects, responsive layout, dark/light mode, interactive cards and tables.
+
+IMPORTANT
+---------
+This is a demonstration/prototype using synthetic/demo data. It is not connected to OIL operational systems and must not be presented as an operational OIL model. Any production deployment requires authorized data, expert labels, validation, security, governance and HSE approval.

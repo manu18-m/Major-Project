@@ -1,0 +1,9 @@
+@echo off
+echo Installing dependencies...
+python -m pip install -r requirements.txt
+echo Training demo NLP model...
+python ml\train_model.py
+echo Starting Django server...
+python manage.py migrate
+python manage.py runserver
+pause

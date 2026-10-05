@@ -1,0 +1,41 @@
+report,label
+The equipment guard was inspected and found correctly installed.,NON_SIF
+A blind lift was performed without clear communication between operator and banksman.,SIF
+Load was lifted over an occupied area and the exclusion zone was not established.,SIF
+Maintenance team opened a pressurised line before energy isolation was verified.,SIF
+Gas testing was completed and recorded before the authorised hot work began.,NON_SIF
+The maintenance area was barricaded and warning signs were visible.,NON_SIF
+Housekeeping was completed around the workshop and walkways were clear.,NON_SIF
+The vehicle inspection was completed and the driver followed the site speed limit.,NON_SIF
+A crane lift was performed without confirming the lifting plan and load path.,SIF
+The emergency drill was conducted according to the approved procedure.,NON_SIF
+A machine guard was removed and the equipment was operated.,SIF
+PPE availability was checked before the scheduled activity.,NON_SIF
+Gas detector alarm was ignored during hot work.,SIF
+Worker attended the daily toolbox talk before starting the planned maintenance.,NON_SIF
+Worker entered a confined space without gas testing or an entry permit.,SIF
+Barricades were installed and the exclusion zone was verified before lifting.,NON_SIF
+A lifting plan was reviewed and the load path was confirmed clear.,NON_SIF
+Hot work started near hydrocarbon vapour without adequate gas monitoring.,SIF
+The supervisor confirmed all workers understood the safe work procedure.,NON_SIF
+The supervisor reviewed the permit and briefed the crew before work started.,NON_SIF
+Confined space attendant was absent while a worker remained inside.,SIF
+Permit to work did not cover the actual maintenance activity.,SIF
+Worker stood in the line of fire while a suspended load was being moved.,SIF
+Safety observation was discussed during the shift meeting.,NON_SIF
+Fire extinguisher inspection was completed and the seal was intact.,NON_SIF
+Routine equipment inspection was completed according to the schedule.,NON_SIF
+The worker connected the fall arrest system before accessing the elevated platform.,NON_SIF
+Vehicle was driven at excessive speed on a congested site road.,SIF
+A reversing vehicle nearly hit a pedestrian because the spotter was missing.,SIF
+A dropped object nearly struck personnel below a work platform.,SIF
+Contractor worked at height without connecting the fall arrest lanyard.,SIF
+Safety interlock was bypassed during equipment operation.,SIF
+The confined space permit and continuous gas monitoring were verified before entry.,NON_SIF
+Personnel entered a restricted area while heavy equipment was operating.,SIF
+Electrical panel was opened without lockout tagout verification.,SIF
+Pressure was still present when a flange was loosened during maintenance.,SIF
+Worker climbed an unprotected platform edge without fall protection.,SIF
+Emergency exit signage was checked and found visible.,NON_SIF
+Lockout tagout was applied and independently verified before maintenance.,NON_SIF
+Inspection checklist was completed and all required PPE was verified.,NON_SIF
